@@ -2,7 +2,7 @@ import React from 'react'
 import { View,SafeAreaView, Text, StyleSheet, ImageBackground,Button} from 'react-native'
 import { ScrollView } from 'react-native-gesture-handler'
 import Icon  from 'react-native-vector-icons/MaterialCommunityIcons'
-import AddToCartBtn from '../Assets/consts/Buttons'
+
 
 
 const DetailsScreen = ({navigation, route}) => {
